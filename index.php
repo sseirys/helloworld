@@ -6,10 +6,11 @@
  * Time: 15.14
  */
 
-echo "Hello World!";
+echo "Hello World!"; //Without var
 
 // Commit #2
 $test = "World";
-echo "Hello".$test;
+$test2 = "!";
+echo "Hello".$test.$test2; // With var
 
 ?>
