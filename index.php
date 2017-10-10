@@ -5,3 +5,7 @@
  * Date: 17.10.10
  * Time: 15.14
  */
+
+echo "Hello World!";
+
+?>
