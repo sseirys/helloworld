@@ -8,4 +8,8 @@
 
 echo "Hello World!";
 
+// Commit #2
+$test = "World";
+echo "Hello".$test;
+
 ?>
