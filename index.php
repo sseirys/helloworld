@@ -13,4 +13,11 @@ $test = "World";
 $test2 = "!";
 echo "Hello".$test.$test2; // With var
 
+function hello($word1, $word2)
+{
+    echo "Hello".$word1.$word2;
+}
+
+hello($test, $test2);
+
 ?>
