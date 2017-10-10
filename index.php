@@ -13,4 +13,5 @@ $test = "World";
 $test2 = "!!";
 echo "Hello".$test.$test2;
 
+//Useless comment
 ?>
