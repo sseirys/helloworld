@@ -21,4 +21,5 @@ function hello($word1, $word2)
 hello($test, $test2);
 
 //Useless comment
+//useless comment #2
 ?>
